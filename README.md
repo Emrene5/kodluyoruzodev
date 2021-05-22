@@ -1,0 +1,2 @@
+# kodluyoruzodev
+Kodluyoruz-Patika Ödevi
