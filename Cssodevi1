@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA</title>
+
+<style>
+    #anabaslik{
+        text-align: center;
+        margin: 5px;
+        text-shadow: rgb(26, 26, 129) 10px 5px 20px;
+    }
+    
+    #nba{
+        text-align: center;
+        margin-top: 50px;
+        text-shadow: rgb(26, 26, 129) 10px 5px 20px;
+    }
+    
+    #espn{
+        text-align: center;
+        margin-top: 50px;
+        text-shadow: rgb(26, 26, 129) 10px 5px 20px;
+    }
+
+    #breport{
+        text-align: center;
+        margin-top: 50px;
+        text-shadow: rgb(26, 26, 129) 10px 5px 20px;
+    }
+
+    nav{
+        text-align: center;
+        margin: 30px;
+    }   
+    
+    footer{
+        text-align:center ;
+        margin-top:60px ;
+    }
+    
+    a:link{
+        color: rgb(29, 29, 39);
+        text-shadow: rgb(26, 26, 129) 10px 5px 20px;
+    }
+    
+    a:hover{
+        color: crimson;
+    }
+    
+    a:visited{
+        color: rgb(28, 102, 96);
+    }
+
+    body{
+      background-color: rgb(207, 221, 221);
+    }
+    
+
+</style>
+
+</head>
+
+<body>
+    
+          <div>
+        
+    <header>
+                <h1 id="anabaslik" style="color: rgb(18, 34, 82);" >NBA Haber Siteleri</h1>
+
+    </header>
+
+
+        </div>
+
+        <div>
+    <nav>
+                <a href="https://www.nba.com" target="_blank">NBA</a>
+                <a href="https://www.espn.com/nba" target="_blank">ESPN</a>
+                <a href="https://bleacherreport.com/nba" target="_blank">Bleacher Report</a>
+
+    </nav>        
+
+        </div>
+
+        <div>
+
+    <article id="nba">
+                <img id="nbalogo" height="100px" width="150px" src="nba.png" alt="nbaa" title="Nba Logo">     
+            
+            <h1>Nba.com</h1>
+                <p>Nba'in resmi sitesi olan nba.com'da aradığınız bütün bilgi ve istatistiklere ulaşabilirsiniz. Ayrıca oynanan maçların özetlerini
+                <a href="https://www.nba.com/watch/" target="_blank"><strong>buradan</strong> </a>takip etmek mümkün.
+                Başlığın altındaki linkten ya da <a href="https://www.nba.com" target="_blank">buradan</a> siteye ulaşabilirsiniz.
+                </p>
+                
+                
+    </article>        
+    
+    <article id="espn">       
+        
+                <img height="100px" width="150px" src="espn.png" alt="espnn" title="Espn Logo">
+            
+            <h1>Espn.com</h1>
+                <p>ABD kökenli bir spor sitesi olan Espn diğer tüm organizasyonlar gibi Nba'den de bütün haberleri okurlarıyla buluşturuyor.
+                Kolay arayüzü sayesinde ilgili bölüme hızlıca ulaşabilirsiniz. Maç özetleri ve istatistiklere de rahatça göz atabilirsiniz.
+                Başlığın altındaki linkten ya da <a href="https://www.espn.com/nba" target="_blank">buradan</a> siteye ulaşabilirsiniz.                </p>
+
+                
+    </article> 
+                
+    <article id="breport">
+
+                <img height="100px" width="150px" src="br.png" alt="breportt" title="Bleacher Report Logo">
+            
+            <h1>BleacherReport.com</h1>
+                <p>Önceden bahsettiğimiz sitelere göre henüz büyüme aşamasında diyebiliriz. Maç özetleri konusunda Nba ile anlaşmalı kurumlardan biridir.
+                Basketbol hakkında değişik makaleler okuyabilirsiniz. Bu sitede de diğer organizasyonlara ait bilgiler bulabilirsiniz.
+                Başlığın altındaki linkten ya da <a href="https://www.bleacherreport.com/nba" target="_blank">buradan</a> siteye ulaşabilirsiniz.
+                </p>
+        
+    </article>       
+
+        </div>
+        <div>
+
+    <footer>
+        <p>Kaynaklar:</p>
+        <a href="https://www.nba.com">Nba.com</a>
+        <a href="https://www.espn.com/nba">Espn.com</a>
+        <a href="https://www.bleacherreport.com/nba">Bleacher Report</a>
+
+        <h5>Tüm hakları saklıdır.</h5>
+
+    </footer>
+
+
+        </div>
+
+</body>
+</html>
